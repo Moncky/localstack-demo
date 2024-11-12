@@ -1,0 +1,8 @@
+#Account
+aws_region:           "eu-west-1"
+account_name:         "digital-localstack"
+account_id:           "000000000000"
+
+#Alarms
+cloudwatch_alarms_sns_topic_arn_parameter_store : "/Infrastructure/CloudWatch/Alarms/NotificationTopicARN"
+
